@@ -8,7 +8,7 @@ The purpose of this analysis is to examine the new "UFO Finder" website and dete
 
 ### The Filter Boxes
 
-![Filter Boxes]
+![Filter Boxes](http://www.github.com/davidfashbinder/UFOs/blob/main/filters.png)
 
 We can filter the data by any, or all, of the following:
 
