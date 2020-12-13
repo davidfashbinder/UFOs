@@ -8,7 +8,7 @@ The purpose of this analysis is to examine the new "UFO Finder" website and dete
 
 ### The Filter Boxes
 
-![Filter Boxes](http://www.github.com/davidfashbinder/UFOs/blob/main/filters.png)
+![Filter Boxes](https://github.com/davidfashbinder/UFOs/blob/main/filters.png?raw=true)
 
 We can filter the data by any, or all, of the following:
 
@@ -20,23 +20,27 @@ We can filter the data by any, or all, of the following:
 
 Let's filter by city - so we can see how many UFO sightings have occurred in Benton, Arkansas.  Simply type "benton" into the City input box and tab or click out of it.  
 
-![Filter City Benton]
+![Filter City Benton](https://github.com/davidfashbinder/UFOs/blob/main/filter_city.png?raw=true)
 
 The table immediately filters itself to display the one - and only - reported sighting in Benton, Arkansas.  
 
+![City Data](https://github.com/davidfashbinder/UFOs/blob/main/city_data.png?raw=true)
+
 What about my birthday?  Let's clear the filter by erasing 'benton' from the City input box, and putting the date '1/23/2010' in the Date box.  Make sure to use the MM/DD/YYYY format, and click or tab out of the box to register the change.
 
-![Filter Date]
+![Filter Date](https://github.com/davidfashbinder/UFOs/blob/main/filter_date.png?raw=true)
 
 Bummer!  The data does not capture any sightings on my birthday in 2010.  
 
+![Date Data](https://github.com/davidfashbinder/UFOs/blob/main/date_data.png?raw=true)
+
 We've been hearing reports of strange triangle objects flying around in California.  Let's filter the data to see how many times this has been reported.
 
-![Filter State]![Filter Shape]
+![Filter State](https://github.com/davidfashbinder/UFOs/blob/main/filter_state_shape.png?raw=true)
 
 We have to use the abbreviation for states, so input 'ca' for California, and 'triangle' for shape.  Register the change with the table and....
 
-![California Triangles]
+![California Triangles](https://github.com/davidfashbinder/UFOs/blob/main/state_shape_data.png?raw=true)
 
 We see 7 reported triangle sightings in the California skies!  Watch out!
 
